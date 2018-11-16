@@ -1,0 +1,269 @@
+C:\Users\Tu Tu\Documents\Visual Studio 2013\Projects\Qlks\Qlks\bin\Debug\Qlks.exe.config
+C:\Users\Tu Tu\Documents\Visual Studio 2013\Projects\Qlks\Qlks\bin\Debug\Qlks.exe
+C:\Users\Tu Tu\Documents\Visual Studio 2013\Projects\Qlks\Qlks\bin\Debug\Qlks.pdb
+C:\Users\Tu Tu\Documents\Visual Studio 2013\Projects\Qlks\Qlks\obj\Debug\Qlks.capnhat.resources
+C:\Users\Tu Tu\Documents\Visual Studio 2013\Projects\Qlks\Qlks\obj\Debug\Qlks.DangNhap.resources
+C:\Users\Tu Tu\Documents\Visual Studio 2013\Projects\Qlks\Qlks\obj\Debug\Qlks.phong.resources
+C:\Users\Tu Tu\Documents\Visual Studio 2013\Projects\Qlks\Qlks\obj\Debug\Qlks.qlks.resources
+C:\Users\Tu Tu\Documents\Visual Studio 2013\Projects\Qlks\Qlks\obj\Debug\Qlks.Properties.Resources.resources
+C:\Users\Tu Tu\Documents\Visual Studio 2013\Projects\Qlks\Qlks\obj\Debug\Qlks.suaphong.resources
+C:\Users\Tu Tu\Documents\Visual Studio 2013\Projects\Qlks\Qlks\obj\Debug\Qlks.thongtinnv.resources
+C:\Users\Tu Tu\Documents\Visual Studio 2013\Projects\Qlks\Qlks\obj\Debug\Qlks.tinhtien.resources
+C:\Users\Tu Tu\Documents\Visual Studio 2013\Projects\Qlks\Qlks\obj\Debug\Qlks.csproj.GenerateResource.Cache
+C:\Users\Tu Tu\Documents\Visual Studio 2013\Projects\Qlks\Qlks\obj\Debug\Qlks.exe
+C:\Users\Tu Tu\Documents\Visual Studio 2013\Projects\Qlks\Qlks\obj\Debug\Qlks.pdb
+C:\Users\Tu Tu\documents\visual studio 2013\Projects\Qlks\Qlks\obj\Debug\Qlks.csprojResolveAssemblyReference.cache
+C:\Users\Tu Tu\documents\visual studio 2013\Projects\Qlks\Qlks\obj\Debug\Qlks.doimatkhau.resources
+C:\Users\Tu Tu\documents\visual studio 2013\Projects\Qlks\Qlks\obj\Debug\Qlks.timkh.resources
+C:\Users\Tu Tu\documents\visual studio 2013\Projects\Qlks\Qlks\obj\Debug\Qlks.danhsachphong.resources
+C:\Users\Tu Tu\documents\visual studio 2013\Projects\Qlks\Qlks\obj\Debug\Qlks.doanhthu.resources
+C:\Users\Tu Tu\documents\visual studio 2013\Projects\Qlks\Qlks\obj\Debug\Qlks.HuongDan.resources
+C:\Users\Tu Tu\documents\visual studio 2013\Projects\Qlks\Qlks\obj\Debug\Qlks.Thongtin.resources
+C:\Users\Tu Tu\documents\visual studio 2013\Projects\Qlks\Qlks\obj\Debug\Qlks.inhoadon.resources
+C:\Users\Tu Tu\documents\visual studio 2013\Projects\Qlks\Qlks\obj\Debug\RdlCompile.cache
+C:\Users\Tu Tu\documents\visual studio 2013\Projects\Qlks\Qlks\obj\Debug\RdlCompile.compiled
+C:\Users\Tu Tu\documents\visual studio 2013\Projects\Qlks\Qlks\obj\Debug\Qlks.Txphong.resources
+C:\Users\Tu Tu\documents\visual studio 2013\Projects\Qlks\Qlks\obj\Debug\Qlks.datphong.resources
+C:\Users\Tu Tu\documents\visual studio 2013\Projects\Qlks\Qlks\obj\Debug\Qlks.dichvu.resources
+D:\kỳ 3.2\TT nhom\Qlks\Qlks\bin\Debug\Qlks.exe.config
+D:\kỳ 3.2\TT nhom\Qlks\Qlks\obj\Debug\Qlks.exe
+D:\kỳ 3.2\TT nhom\Qlks\Qlks\obj\Debug\Qlks.pdb
+D:\kỳ 3.2\TT nhom\Qlks\Qlks\bin\Debug\Qlks.exe
+D:\kỳ 3.2\TT nhom\Qlks\Qlks\bin\Debug\Qlks.pdb
+D:\kỳ 3.2\TT nhom\Qlks\Qlks\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\kỳ 3.2\TT nhom\Qlks\Qlks\obj\Debug\Qlks.csprojResolveAssemblyReference.cache
+D:\kỳ 3.2\TT nhom\Qlks\Qlks\obj\Debug\Qlks.capnhat.resources
+D:\kỳ 3.2\TT nhom\Qlks\Qlks\obj\Debug\Qlks.DangNhap.resources
+D:\kỳ 3.2\TT nhom\Qlks\Qlks\obj\Debug\Qlks.danhsachphong.resources
+D:\kỳ 3.2\TT nhom\Qlks\Qlks\obj\Debug\Qlks.datphong.resources
+D:\kỳ 3.2\TT nhom\Qlks\Qlks\obj\Debug\Qlks.dichvu.resources
+D:\kỳ 3.2\TT nhom\Qlks\Qlks\obj\Debug\Qlks.doanhthu.resources
+D:\kỳ 3.2\TT nhom\Qlks\Qlks\obj\Debug\Qlks.doimatkhau.resources
+D:\kỳ 3.2\TT nhom\Qlks\Qlks\obj\Debug\Qlks.HuongDan.resources
+D:\kỳ 3.2\TT nhom\Qlks\Qlks\obj\Debug\Qlks.inhoadon.resources
+D:\kỳ 3.2\TT nhom\Qlks\Qlks\obj\Debug\Qlks.phong.resources
+D:\kỳ 3.2\TT nhom\Qlks\Qlks\obj\Debug\Qlks.qlks.resources
+D:\kỳ 3.2\TT nhom\Qlks\Qlks\obj\Debug\Qlks.Properties.Resources.resources
+D:\kỳ 3.2\TT nhom\Qlks\Qlks\obj\Debug\Qlks.suaphong.resources
+D:\kỳ 3.2\TT nhom\Qlks\Qlks\obj\Debug\Qlks.Thongtin.resources
+D:\kỳ 3.2\TT nhom\Qlks\Qlks\obj\Debug\Qlks.thongtinnv.resources
+D:\kỳ 3.2\TT nhom\Qlks\Qlks\obj\Debug\Qlks.timkh.resources
+D:\kỳ 3.2\TT nhom\Qlks\Qlks\obj\Debug\Qlks.tinhtien.resources
+D:\kỳ 3.2\TT nhom\Qlks\Qlks\obj\Debug\Qlks.Txphong.resources
+D:\kỳ 3.2\TT nhom\Qlks\Qlks\obj\Debug\Qlks.csproj.GenerateResource.Cache
+C:\Users\hieu huyen\Documents\Visual Studio 2015\Projects\Qlks\Qlks\bin\Debug\Qlks.exe.config
+C:\Users\hieu huyen\Documents\Visual Studio 2015\Projects\Qlks\Qlks\obj\Debug\Qlks.exe
+C:\Users\hieu huyen\Documents\Visual Studio 2015\Projects\Qlks\Qlks\obj\Debug\Qlks.pdb
+C:\Users\hieu huyen\Documents\Visual Studio 2015\Projects\Qlks\Qlks\bin\Debug\Qlks.exe
+C:\Users\hieu huyen\Documents\Visual Studio 2015\Projects\Qlks\Qlks\bin\Debug\Qlks.pdb
+C:\Users\hieu huyen\Documents\Visual Studio 2015\Projects\Qlks\Qlks\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\hieu huyen\Documents\Visual Studio 2015\Projects\Qlks\Qlks\obj\Debug\Qlks.csprojResolveAssemblyReference.cache
+C:\Users\hieu huyen\Documents\Visual Studio 2015\Projects\Qlks\Qlks\obj\Debug\Qlks.capnhat.resources
+C:\Users\hieu huyen\Documents\Visual Studio 2015\Projects\Qlks\Qlks\obj\Debug\Qlks.DangNhap.resources
+C:\Users\hieu huyen\Documents\Visual Studio 2015\Projects\Qlks\Qlks\obj\Debug\Qlks.danhsachphong.resources
+C:\Users\hieu huyen\Documents\Visual Studio 2015\Projects\Qlks\Qlks\obj\Debug\Qlks.datphong.resources
+C:\Users\hieu huyen\Documents\Visual Studio 2015\Projects\Qlks\Qlks\obj\Debug\Qlks.dichvu.resources
+C:\Users\hieu huyen\Documents\Visual Studio 2015\Projects\Qlks\Qlks\obj\Debug\Qlks.doanhthu.resources
+C:\Users\hieu huyen\Documents\Visual Studio 2015\Projects\Qlks\Qlks\obj\Debug\Qlks.doimatkhau.resources
+C:\Users\hieu huyen\Documents\Visual Studio 2015\Projects\Qlks\Qlks\obj\Debug\Qlks.HuongDan.resources
+C:\Users\hieu huyen\Documents\Visual Studio 2015\Projects\Qlks\Qlks\obj\Debug\Qlks.inhoadon.resources
+C:\Users\hieu huyen\Documents\Visual Studio 2015\Projects\Qlks\Qlks\obj\Debug\Qlks.phong.resources
+C:\Users\hieu huyen\Documents\Visual Studio 2015\Projects\Qlks\Qlks\obj\Debug\Qlks.qlks.resources
+C:\Users\hieu huyen\Documents\Visual Studio 2015\Projects\Qlks\Qlks\obj\Debug\Qlks.Properties.Resources.resources
+C:\Users\hieu huyen\Documents\Visual Studio 2015\Projects\Qlks\Qlks\obj\Debug\Qlks.suaphong.resources
+C:\Users\hieu huyen\Documents\Visual Studio 2015\Projects\Qlks\Qlks\obj\Debug\Qlks.Thongtin.resources
+C:\Users\hieu huyen\Documents\Visual Studio 2015\Projects\Qlks\Qlks\obj\Debug\Qlks.thongtinnv.resources
+C:\Users\hieu huyen\Documents\Visual Studio 2015\Projects\Qlks\Qlks\obj\Debug\Qlks.timkh.resources
+C:\Users\hieu huyen\Documents\Visual Studio 2015\Projects\Qlks\Qlks\obj\Debug\Qlks.tinhtien.resources
+C:\Users\hieu huyen\Documents\Visual Studio 2015\Projects\Qlks\Qlks\obj\Debug\Qlks.Txphong.resources
+C:\Users\hieu huyen\Documents\Visual Studio 2015\Projects\Qlks\Qlks\obj\Debug\Qlks.csproj.GenerateResource.Cache
+F:\ky 6\thuctapnhom\QuanLyKhachSan\Qlks\Qlks\bin\Debug\Qlks.exe.config
+F:\ky 6\thuctapnhom\QuanLyKhachSan\Qlks\Qlks\obj\Debug\Qlks.exe
+F:\ky 6\thuctapnhom\QuanLyKhachSan\Qlks\Qlks\obj\Debug\Qlks.pdb
+F:\ky 6\thuctapnhom\QuanLyKhachSan\Qlks\Qlks\bin\Debug\Qlks.exe
+F:\ky 6\thuctapnhom\QuanLyKhachSan\Qlks\Qlks\bin\Debug\Qlks.pdb
+F:\ky 6\thuctapnhom\QuanLyKhachSan\Qlks\Qlks\bin\Debug\Microsoft.SqlServer.Types.dll
+F:\ky 6\thuctapnhom\QuanLyKhachSan\Qlks\Qlks\obj\Debug\Qlks.csprojResolveAssemblyReference.cache
+F:\ky 6\thuctapnhom\QuanLyKhachSan\Qlks\Qlks\obj\Debug\Qlks.capnhat.resources
+F:\ky 6\thuctapnhom\QuanLyKhachSan\Qlks\Qlks\obj\Debug\Qlks.DangNhap.resources
+F:\ky 6\thuctapnhom\QuanLyKhachSan\Qlks\Qlks\obj\Debug\Qlks.danhsachphong.resources
+F:\ky 6\thuctapnhom\QuanLyKhachSan\Qlks\Qlks\obj\Debug\Qlks.datphong.resources
+F:\ky 6\thuctapnhom\QuanLyKhachSan\Qlks\Qlks\obj\Debug\Qlks.dichvu.resources
+F:\ky 6\thuctapnhom\QuanLyKhachSan\Qlks\Qlks\obj\Debug\Qlks.doanhthu.resources
+F:\ky 6\thuctapnhom\QuanLyKhachSan\Qlks\Qlks\obj\Debug\Qlks.doimatkhau.resources
+F:\ky 6\thuctapnhom\QuanLyKhachSan\Qlks\Qlks\obj\Debug\Qlks.HuongDan.resources
+F:\ky 6\thuctapnhom\QuanLyKhachSan\Qlks\Qlks\obj\Debug\Qlks.inhoadon.resources
+F:\ky 6\thuctapnhom\QuanLyKhachSan\Qlks\Qlks\obj\Debug\Qlks.phong.resources
+F:\ky 6\thuctapnhom\QuanLyKhachSan\Qlks\Qlks\obj\Debug\Qlks.qlks.resources
+F:\ky 6\thuctapnhom\QuanLyKhachSan\Qlks\Qlks\obj\Debug\Qlks.Properties.Resources.resources
+F:\ky 6\thuctapnhom\QuanLyKhachSan\Qlks\Qlks\obj\Debug\Qlks.suaphong.resources
+F:\ky 6\thuctapnhom\QuanLyKhachSan\Qlks\Qlks\obj\Debug\Qlks.Thongtin.resources
+F:\ky 6\thuctapnhom\QuanLyKhachSan\Qlks\Qlks\obj\Debug\Qlks.thongtinnv.resources
+F:\ky 6\thuctapnhom\QuanLyKhachSan\Qlks\Qlks\obj\Debug\Qlks.timkh.resources
+F:\ky 6\thuctapnhom\QuanLyKhachSan\Qlks\Qlks\obj\Debug\Qlks.tinhtien.resources
+F:\ky 6\thuctapnhom\QuanLyKhachSan\Qlks\Qlks\obj\Debug\Qlks.Txphong.resources
+F:\ky 6\thuctapnhom\QuanLyKhachSan\Qlks\Qlks\obj\Debug\Qlks.csproj.GenerateResource.Cache
+D:\ký 4\Year3Season2\ky 6\thuctapnhom\QuanLyKhachSan\Qlks\Qlks\bin\Debug\Qlks.exe.config
+D:\ký 4\Year3Season2\ky 6\thuctapnhom\QuanLyKhachSan\Qlks\Qlks\obj\Debug\Qlks.exe
+D:\ký 4\Year3Season2\ky 6\thuctapnhom\QuanLyKhachSan\Qlks\Qlks\obj\Debug\Qlks.pdb
+D:\ký 4\Year3Season2\ky 6\thuctapnhom\QuanLyKhachSan\Qlks\Qlks\obj\Debug\Qlks.csprojResolveAssemblyReference.cache
+D:\ký 4\Year3Season2\ky 6\thuctapnhom\QuanLyKhachSan\Qlks\Qlks\obj\Debug\Qlks.capnhat.resources
+D:\ký 4\Year3Season2\ky 6\thuctapnhom\QuanLyKhachSan\Qlks\Qlks\obj\Debug\Qlks.DangNhap.resources
+D:\ký 4\Year3Season2\ky 6\thuctapnhom\QuanLyKhachSan\Qlks\Qlks\obj\Debug\Qlks.danhsachphong.resources
+D:\ký 4\Year3Season2\ky 6\thuctapnhom\QuanLyKhachSan\Qlks\Qlks\obj\Debug\Qlks.datphong.resources
+D:\ký 4\Year3Season2\ky 6\thuctapnhom\QuanLyKhachSan\Qlks\Qlks\obj\Debug\Qlks.dichvu.resources
+D:\ký 4\Year3Season2\ky 6\thuctapnhom\QuanLyKhachSan\Qlks\Qlks\obj\Debug\Qlks.doanhthu.resources
+D:\ký 4\Year3Season2\ky 6\thuctapnhom\QuanLyKhachSan\Qlks\Qlks\obj\Debug\Qlks.doimatkhau.resources
+D:\ký 4\Year3Season2\ky 6\thuctapnhom\QuanLyKhachSan\Qlks\Qlks\obj\Debug\Qlks.HuongDan.resources
+D:\ký 4\Year3Season2\ky 6\thuctapnhom\QuanLyKhachSan\Qlks\Qlks\obj\Debug\Qlks.inhoadon.resources
+D:\ký 4\Year3Season2\ky 6\thuctapnhom\QuanLyKhachSan\Qlks\Qlks\obj\Debug\Qlks.phong.resources
+D:\ký 4\Year3Season2\ky 6\thuctapnhom\QuanLyKhachSan\Qlks\Qlks\obj\Debug\Qlks.qlks.resources
+D:\ký 4\Year3Season2\ky 6\thuctapnhom\QuanLyKhachSan\Qlks\Qlks\obj\Debug\Qlks.Properties.Resources.resources
+D:\ký 4\Year3Season2\ky 6\thuctapnhom\QuanLyKhachSan\Qlks\Qlks\obj\Debug\Qlks.suaphong.resources
+D:\ký 4\Year3Season2\ky 6\thuctapnhom\QuanLyKhachSan\Qlks\Qlks\obj\Debug\Qlks.Thongtin.resources
+D:\ký 4\Year3Season2\ky 6\thuctapnhom\QuanLyKhachSan\Qlks\Qlks\obj\Debug\Qlks.thongtinnv.resources
+D:\ký 4\Year3Season2\ky 6\thuctapnhom\QuanLyKhachSan\Qlks\Qlks\obj\Debug\Qlks.timkh.resources
+D:\ký 4\Year3Season2\ky 6\thuctapnhom\QuanLyKhachSan\Qlks\Qlks\obj\Debug\Qlks.tinhtien.resources
+D:\ký 4\Year3Season2\ky 6\thuctapnhom\QuanLyKhachSan\Qlks\Qlks\obj\Debug\Qlks.Txphong.resources
+D:\ký 4\Year3Season2\ky 6\thuctapnhom\QuanLyKhachSan\Qlks\Qlks\obj\Debug\Qlks.csproj.GenerateResource.Cache
+D:\ký 4\Year3Season2\ky 6\thuctapnhom\QuanLyKhachSan\Qlks\Qlks\bin\Debug\Qlks.exe
+D:\ký 4\Year3Season2\ky 6\thuctapnhom\QuanLyKhachSan\Qlks\Qlks\bin\Debug\Qlks.pdb
+D:\ký 4\Year3Season2\ky 6\thuctapnhom\QuanLyKhachSan\Qlks\Qlks\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\ký 4\Year3Season2\ky 6\thuctapnhom\QuanLyKhachSan\Qlks\Qlks\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\ký 4\Year3Season2\ky 6\thuctapnhom\QuanLyKhachSan\Qlks\Qlks\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\ký 4\Year3Season2\ky 6\thuctapnhom\QuanLyKhachSan\Qlks\Qlks\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\ký 4\Year3Season2\ky 6\thuctapnhom\QuanLyKhachSan\Qlks\Qlks\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+D:\ký 4\Year3Season2\ky 6\thuctapnhom\QuanLyKhachSan\Qlks\Qlks\bin\Debug\EnvDTE.dll
+D:\ký 4\Year3Season2\ky 6\thuctapnhom\QuanLyKhachSan\Qlks\Qlks\bin\Debug\stdole.dll
+D:\ký 4\Year3Season2\ky 6\thuctapnhom\QuanLyKhachSan\Qlks\Qlks\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+D:\ký 4\Year3Season2\ky 6\thuctapnhom\QuanLyKhachSan\Qlks\Qlks\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+D:\ký 4\Year3Season2\ky 6\thuctapnhom\QuanLyKhachSan\Qlks\Qlks\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+D:\ký 4\Year3Season2\ky 6\thuctapnhom\QuanLyKhachSan\Qlks\Qlks\bin\Debug\EnvDTE80.dll
+D:\ký 4\Year3Season2\ky 6\thuctapnhom\QuanLyKhachSan\Qlks\Qlks\bin\Debug\VSLangProj.dll
+D:\ký 4\Year3Season2\ky 6\thuctapnhom\QuanLyKhachSan\Qlks\Qlks\bin\Debug\VSLangProj80.dll
+D:\ký 4\Year3Season2\ky 6\thuctapnhom\QuanLyKhachSan\Qlks\Qlks\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+D:\ký 4\Year3Season2\ky 6\thuctapnhom\QuanLyKhachSan\Qlks\Qlks\bin\Debug\Microsoft.MSXML.dll
+D:\ký 4\Year3Season2\ky 6\thuctapnhom\QuanLyKhachSan\Qlks\Qlks\bin\Debug\VSLangProj2.dll
+D:\ký 4\Year3Season2\ky 6\thuctapnhom\QuanLyKhachSan\Qlks\Qlks\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+D:\ký 4\Year3Season2\ky 6\thuctapnhom\QuanLyKhachSan\Qlks\Qlks\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\ký 4\Year3Season2\ky 6\thuctapnhom\QuanLyKhachSan\Qlks\Qlks\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\ký 4\Year3Season2\ky 6\thuctapnhom\QuanLyKhachSan\Qlks\Qlks\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\ký 4\Year3Season2\ky 6\thuctapnhom\QuanLyKhachSan\Qlks\Qlks\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\ký 4\Year3Season2\ky 6\thuctapnhom\QuanLyKhachSan\Qlks\Qlks\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\ký 4\Year3Season2\ky 6\thuctapnhom\QuanLyKhachSan\Qlks\Qlks\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\ký 4\Year3Season2\ky 6\thuctapnhom\QuanLyKhachSan\Qlks\Qlks\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\ký 4\Year3Season2\ky 6\thuctapnhom\QuanLyKhachSan\Qlks\Qlks\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\ký 4\Year3Season2\ky 6\thuctapnhom\QuanLyKhachSan\Qlks\Qlks\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\ký 4\Year3Season2\ky 6\thuctapnhom\QuanLyKhachSan\Qlks\Qlks\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\ký 4\Year3Season2\ky 6\thuctapnhom\QuanLyKhachSan\Qlks\Qlks\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ký 4\Year3Season2\ky 6\thuctapnhom\QuanLyKhachSan\Qlks\Qlks\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ký 4\Year3Season2\ky 6\thuctapnhom\QuanLyKhachSan\Qlks\Qlks\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ký 4\Year3Season2\ky 6\thuctapnhom\QuanLyKhachSan\Qlks\Qlks\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ký 4\Year3Season2\ky 6\thuctapnhom\QuanLyKhachSan\Qlks\Qlks\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ký 4\Year3Season2\ky 6\thuctapnhom\QuanLyKhachSan\Qlks\Qlks\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ký 4\Year3Season2\ky 6\thuctapnhom\QuanLyKhachSan\Qlks\Qlks\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ký 4\Year3Season2\ky 6\thuctapnhom\QuanLyKhachSan\Qlks\Qlks\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ký 4\Year3Season2\ky 6\thuctapnhom\QuanLyKhachSan\Qlks\Qlks\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ký 4\Year3Season2\ky 6\thuctapnhom\QuanLyKhachSan\Qlks\Qlks\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ký 4\Year3Season2\ky 6\thuctapnhom\QuanLyKhachSan\Qlks\Qlks\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\ký 4\Year3Season2\ky 6\thuctapnhom\QuanLyKhachSan\Qlks\Qlks\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\ký 4\Year3Season2\ky 6\thuctapnhom\QuanLyKhachSan\Qlks\Qlks\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\ký 4\Year3Season2\ky 6\thuctapnhom\QuanLyKhachSan\Qlks\Qlks\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\ký 4\Year3Season2\ky 6\thuctapnhom\QuanLyKhachSan\Qlks\Qlks\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\ký 4\Year3Season2\ky 6\thuctapnhom\QuanLyKhachSan\Qlks\Qlks\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\ký 4\Year3Season2\ky 6\thuctapnhom\QuanLyKhachSan\Qlks\Qlks\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\ký 4\Year3Season2\ky 6\thuctapnhom\QuanLyKhachSan\Qlks\Qlks\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\ký 4\Year3Season2\ky 6\thuctapnhom\QuanLyKhachSan\Qlks\Qlks\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\ký 4\Year3Season2\ky 6\thuctapnhom\QuanLyKhachSan\Qlks\Qlks\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\ký 4\Year3Season2\ky 6\thuctapnhom\QuanLyKhachSan\Qlks\Qlks\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ký 4\Year3Season2\ky 6\thuctapnhom\QuanLyKhachSan\Qlks\Qlks\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ký 4\Year3Season2\ky 6\thuctapnhom\QuanLyKhachSan\Qlks\Qlks\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ký 4\Year3Season2\ky 6\thuctapnhom\QuanLyKhachSan\Qlks\Qlks\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ký 4\Year3Season2\ky 6\thuctapnhom\QuanLyKhachSan\Qlks\Qlks\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ký 4\Year3Season2\ky 6\thuctapnhom\QuanLyKhachSan\Qlks\Qlks\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ký 4\Year3Season2\ky 6\thuctapnhom\QuanLyKhachSan\Qlks\Qlks\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ký 4\Year3Season2\ky 6\thuctapnhom\QuanLyKhachSan\Qlks\Qlks\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ký 4\Year3Season2\ky 6\thuctapnhom\QuanLyKhachSan\Qlks\Qlks\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ký 4\Year3Season2\ky 6\thuctapnhom\QuanLyKhachSan\Qlks\Qlks\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Hóa Học\ký 4\Year3Season2\ky 6\thuctapnhom\QuanLyKhachSan\Qlks\Qlks\bin\Debug\Qlks.exe.config
+D:\Hóa Học\ký 4\Year3Season2\ky 6\thuctapnhom\QuanLyKhachSan\Qlks\Qlks\obj\Debug\Qlks.exe
+D:\Hóa Học\ký 4\Year3Season2\ky 6\thuctapnhom\QuanLyKhachSan\Qlks\Qlks\obj\Debug\Qlks.pdb
+D:\Hóa Học\ký 4\Year3Season2\ky 6\thuctapnhom\QuanLyKhachSan\Qlks\Qlks\bin\Debug\Qlks.exe
+D:\Hóa Học\ký 4\Year3Season2\ky 6\thuctapnhom\QuanLyKhachSan\Qlks\Qlks\bin\Debug\Qlks.pdb
+D:\Hóa Học\ký 4\Year3Season2\ky 6\thuctapnhom\QuanLyKhachSan\Qlks\Qlks\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Hóa Học\ký 4\Year3Season2\ky 6\thuctapnhom\QuanLyKhachSan\Qlks\Qlks\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Hóa Học\ký 4\Year3Season2\ky 6\thuctapnhom\QuanLyKhachSan\Qlks\Qlks\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Hóa Học\ký 4\Year3Season2\ky 6\thuctapnhom\QuanLyKhachSan\Qlks\Qlks\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Hóa Học\ký 4\Year3Season2\ky 6\thuctapnhom\QuanLyKhachSan\Qlks\Qlks\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+D:\Hóa Học\ký 4\Year3Season2\ky 6\thuctapnhom\QuanLyKhachSan\Qlks\Qlks\bin\Debug\EnvDTE.dll
+D:\Hóa Học\ký 4\Year3Season2\ky 6\thuctapnhom\QuanLyKhachSan\Qlks\Qlks\bin\Debug\stdole.dll
+D:\Hóa Học\ký 4\Year3Season2\ky 6\thuctapnhom\QuanLyKhachSan\Qlks\Qlks\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+D:\Hóa Học\ký 4\Year3Season2\ky 6\thuctapnhom\QuanLyKhachSan\Qlks\Qlks\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+D:\Hóa Học\ký 4\Year3Season2\ky 6\thuctapnhom\QuanLyKhachSan\Qlks\Qlks\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+D:\Hóa Học\ký 4\Year3Season2\ky 6\thuctapnhom\QuanLyKhachSan\Qlks\Qlks\bin\Debug\EnvDTE80.dll
+D:\Hóa Học\ký 4\Year3Season2\ky 6\thuctapnhom\QuanLyKhachSan\Qlks\Qlks\bin\Debug\VSLangProj.dll
+D:\Hóa Học\ký 4\Year3Season2\ky 6\thuctapnhom\QuanLyKhachSan\Qlks\Qlks\bin\Debug\VSLangProj80.dll
+D:\Hóa Học\ký 4\Year3Season2\ky 6\thuctapnhom\QuanLyKhachSan\Qlks\Qlks\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+D:\Hóa Học\ký 4\Year3Season2\ky 6\thuctapnhom\QuanLyKhachSan\Qlks\Qlks\bin\Debug\Microsoft.MSXML.dll
+D:\Hóa Học\ký 4\Year3Season2\ky 6\thuctapnhom\QuanLyKhachSan\Qlks\Qlks\bin\Debug\VSLangProj2.dll
+D:\Hóa Học\ký 4\Year3Season2\ky 6\thuctapnhom\QuanLyKhachSan\Qlks\Qlks\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+D:\Hóa Học\ký 4\Year3Season2\ky 6\thuctapnhom\QuanLyKhachSan\Qlks\Qlks\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Hóa Học\ký 4\Year3Season2\ky 6\thuctapnhom\QuanLyKhachSan\Qlks\Qlks\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Hóa Học\ký 4\Year3Season2\ky 6\thuctapnhom\QuanLyKhachSan\Qlks\Qlks\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Hóa Học\ký 4\Year3Season2\ky 6\thuctapnhom\QuanLyKhachSan\Qlks\Qlks\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Hóa Học\ký 4\Year3Season2\ky 6\thuctapnhom\QuanLyKhachSan\Qlks\Qlks\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Hóa Học\ký 4\Year3Season2\ky 6\thuctapnhom\QuanLyKhachSan\Qlks\Qlks\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Hóa Học\ký 4\Year3Season2\ky 6\thuctapnhom\QuanLyKhachSan\Qlks\Qlks\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Hóa Học\ký 4\Year3Season2\ky 6\thuctapnhom\QuanLyKhachSan\Qlks\Qlks\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Hóa Học\ký 4\Year3Season2\ky 6\thuctapnhom\QuanLyKhachSan\Qlks\Qlks\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Hóa Học\ký 4\Year3Season2\ky 6\thuctapnhom\QuanLyKhachSan\Qlks\Qlks\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Hóa Học\ký 4\Year3Season2\ky 6\thuctapnhom\QuanLyKhachSan\Qlks\Qlks\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Hóa Học\ký 4\Year3Season2\ky 6\thuctapnhom\QuanLyKhachSan\Qlks\Qlks\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Hóa Học\ký 4\Year3Season2\ky 6\thuctapnhom\QuanLyKhachSan\Qlks\Qlks\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Hóa Học\ký 4\Year3Season2\ky 6\thuctapnhom\QuanLyKhachSan\Qlks\Qlks\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Hóa Học\ký 4\Year3Season2\ky 6\thuctapnhom\QuanLyKhachSan\Qlks\Qlks\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Hóa Học\ký 4\Year3Season2\ky 6\thuctapnhom\QuanLyKhachSan\Qlks\Qlks\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Hóa Học\ký 4\Year3Season2\ky 6\thuctapnhom\QuanLyKhachSan\Qlks\Qlks\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Hóa Học\ký 4\Year3Season2\ky 6\thuctapnhom\QuanLyKhachSan\Qlks\Qlks\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Hóa Học\ký 4\Year3Season2\ky 6\thuctapnhom\QuanLyKhachSan\Qlks\Qlks\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Hóa Học\ký 4\Year3Season2\ky 6\thuctapnhom\QuanLyKhachSan\Qlks\Qlks\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Hóa Học\ký 4\Year3Season2\ky 6\thuctapnhom\QuanLyKhachSan\Qlks\Qlks\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Hóa Học\ký 4\Year3Season2\ky 6\thuctapnhom\QuanLyKhachSan\Qlks\Qlks\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Hóa Học\ký 4\Year3Season2\ky 6\thuctapnhom\QuanLyKhachSan\Qlks\Qlks\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Hóa Học\ký 4\Year3Season2\ky 6\thuctapnhom\QuanLyKhachSan\Qlks\Qlks\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Hóa Học\ký 4\Year3Season2\ky 6\thuctapnhom\QuanLyKhachSan\Qlks\Qlks\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Hóa Học\ký 4\Year3Season2\ky 6\thuctapnhom\QuanLyKhachSan\Qlks\Qlks\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Hóa Học\ký 4\Year3Season2\ky 6\thuctapnhom\QuanLyKhachSan\Qlks\Qlks\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Hóa Học\ký 4\Year3Season2\ky 6\thuctapnhom\QuanLyKhachSan\Qlks\Qlks\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Hóa Học\ký 4\Year3Season2\ky 6\thuctapnhom\QuanLyKhachSan\Qlks\Qlks\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Hóa Học\ký 4\Year3Season2\ky 6\thuctapnhom\QuanLyKhachSan\Qlks\Qlks\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Hóa Học\ký 4\Year3Season2\ky 6\thuctapnhom\QuanLyKhachSan\Qlks\Qlks\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Hóa Học\ký 4\Year3Season2\ky 6\thuctapnhom\QuanLyKhachSan\Qlks\Qlks\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Hóa Học\ký 4\Year3Season2\ky 6\thuctapnhom\QuanLyKhachSan\Qlks\Qlks\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Hóa Học\ký 4\Year3Season2\ky 6\thuctapnhom\QuanLyKhachSan\Qlks\Qlks\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Hóa Học\ký 4\Year3Season2\ky 6\thuctapnhom\QuanLyKhachSan\Qlks\Qlks\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Hóa Học\ký 4\Year3Season2\ky 6\thuctapnhom\QuanLyKhachSan\Qlks\Qlks\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Hóa Học\ký 4\Year3Season2\ky 6\thuctapnhom\QuanLyKhachSan\Qlks\Qlks\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Hóa Học\ký 4\Year3Season2\ky 6\thuctapnhom\QuanLyKhachSan\Qlks\Qlks\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Hóa Học\ký 4\Year3Season2\ky 6\thuctapnhom\QuanLyKhachSan\Qlks\Qlks\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Hóa Học\ký 4\Year3Season2\ky 6\thuctapnhom\QuanLyKhachSan\Qlks\Qlks\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Hóa Học\ký 4\Year3Season2\ky 6\thuctapnhom\QuanLyKhachSan\Qlks\Qlks\obj\Debug\Qlks.csprojResolveAssemblyReference.cache
+D:\Hóa Học\ký 4\Year3Season2\ky 6\thuctapnhom\QuanLyKhachSan\Qlks\Qlks\obj\Debug\Qlks.capnhat.resources
+D:\Hóa Học\ký 4\Year3Season2\ky 6\thuctapnhom\QuanLyKhachSan\Qlks\Qlks\obj\Debug\Qlks.DangNhap.resources
+D:\Hóa Học\ký 4\Year3Season2\ky 6\thuctapnhom\QuanLyKhachSan\Qlks\Qlks\obj\Debug\Qlks.danhsachphong.resources
+D:\Hóa Học\ký 4\Year3Season2\ky 6\thuctapnhom\QuanLyKhachSan\Qlks\Qlks\obj\Debug\Qlks.datphong.resources
+D:\Hóa Học\ký 4\Year3Season2\ky 6\thuctapnhom\QuanLyKhachSan\Qlks\Qlks\obj\Debug\Qlks.dichvu.resources
+D:\Hóa Học\ký 4\Year3Season2\ky 6\thuctapnhom\QuanLyKhachSan\Qlks\Qlks\obj\Debug\Qlks.doanhthu.resources
+D:\Hóa Học\ký 4\Year3Season2\ky 6\thuctapnhom\QuanLyKhachSan\Qlks\Qlks\obj\Debug\Qlks.doimatkhau.resources
+D:\Hóa Học\ký 4\Year3Season2\ky 6\thuctapnhom\QuanLyKhachSan\Qlks\Qlks\obj\Debug\Qlks.HuongDan.resources
+D:\Hóa Học\ký 4\Year3Season2\ky 6\thuctapnhom\QuanLyKhachSan\Qlks\Qlks\obj\Debug\Qlks.inhoadon.resources
+D:\Hóa Học\ký 4\Year3Season2\ky 6\thuctapnhom\QuanLyKhachSan\Qlks\Qlks\obj\Debug\Qlks.phong.resources
+D:\Hóa Học\ký 4\Year3Season2\ky 6\thuctapnhom\QuanLyKhachSan\Qlks\Qlks\obj\Debug\Qlks.qlks.resources
+D:\Hóa Học\ký 4\Year3Season2\ky 6\thuctapnhom\QuanLyKhachSan\Qlks\Qlks\obj\Debug\Qlks.Properties.Resources.resources
+D:\Hóa Học\ký 4\Year3Season2\ky 6\thuctapnhom\QuanLyKhachSan\Qlks\Qlks\obj\Debug\Qlks.suaphong.resources
+D:\Hóa Học\ký 4\Year3Season2\ky 6\thuctapnhom\QuanLyKhachSan\Qlks\Qlks\obj\Debug\Qlks.Thongtin.resources
+D:\Hóa Học\ký 4\Year3Season2\ky 6\thuctapnhom\QuanLyKhachSan\Qlks\Qlks\obj\Debug\Qlks.thongtinnv.resources
+D:\Hóa Học\ký 4\Year3Season2\ky 6\thuctapnhom\QuanLyKhachSan\Qlks\Qlks\obj\Debug\Qlks.timkh.resources
+D:\Hóa Học\ký 4\Year3Season2\ky 6\thuctapnhom\QuanLyKhachSan\Qlks\Qlks\obj\Debug\Qlks.tinhtien.resources
+D:\Hóa Học\ký 4\Year3Season2\ky 6\thuctapnhom\QuanLyKhachSan\Qlks\Qlks\obj\Debug\Qlks.Txphong.resources
+D:\Hóa Học\ký 4\Year3Season2\ky 6\thuctapnhom\QuanLyKhachSan\Qlks\Qlks\obj\Debug\Qlks.csproj.GenerateResource.Cache
